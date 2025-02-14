@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^6.11.3",
+    "html2pdf.js": "^0.10.2",
     "jspdf": "^2.5.2",
     "next": "15.1.2",
     "react": "^19.0.0",
